@@ -1,2 +1,2 @@
 # Leaguesharp
-Leaguesharp assemblies 
+Leaguesharp assemblies. 
